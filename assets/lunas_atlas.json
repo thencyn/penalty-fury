@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "lunas_atlas.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 466,
+				"h": 66
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "luna-08",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 64
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 64,
+						"h": 64
+					}
+				},
+				{
+					"filename": "luna-09",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 64
+					},
+					"frame": {
+						"x": 67,
+						"y": 1,
+						"w": 64,
+						"h": 64
+					}
+				},
+				{
+					"filename": "luna-07",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 62,
+						"h": 64
+					},
+					"frame": {
+						"x": 133,
+						"y": 1,
+						"w": 62,
+						"h": 64
+					}
+				},
+				{
+					"filename": "luna-06",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 59,
+						"h": 64
+					},
+					"frame": {
+						"x": 197,
+						"y": 1,
+						"w": 59,
+						"h": 64
+					}
+				},
+				{
+					"filename": "luna-05",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 0,
+						"w": 52,
+						"h": 64
+					},
+					"frame": {
+						"x": 258,
+						"y": 1,
+						"w": 52,
+						"h": 64
+					}
+				},
+				{
+					"filename": "luna-04",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 0,
+						"w": 43,
+						"h": 64
+					},
+					"frame": {
+						"x": 312,
+						"y": 1,
+						"w": 43,
+						"h": 64
+					}
+				},
+				{
+					"filename": "luna-02",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 0,
+						"w": 37,
+						"h": 64
+					},
+					"frame": {
+						"x": 357,
+						"y": 1,
+						"w": 37,
+						"h": 64
+					}
+				},
+				{
+					"filename": "luna-03",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 0,
+						"w": 37,
+						"h": 64
+					},
+					"frame": {
+						"x": 396,
+						"y": 1,
+						"w": 37,
+						"h": 64
+					}
+				},
+				{
+					"filename": "luna-01",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 64,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 0,
+						"w": 30,
+						"h": 64
+					},
+					"frame": {
+						"x": 435,
+						"y": 1,
+						"w": 30,
+						"h": 64
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f100f6e3b427222dc965fed546c36d87:df558c0d75ed793a1ab5ae2f554bf625:5d4fb5ea65b1e0d01acadafb148c1c4a$"
+	}
+}

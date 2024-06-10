@@ -1,0 +1,608 @@
+{
+	"textures": [
+		{
+			"image": "imagenes_atlas.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2021,
+				"h": 769
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "arco",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1474,
+						"h": 476
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 13,
+						"w": 1461,
+						"h": 451
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1461,
+						"h": 451
+					}
+				},
+				{
+					"filename": "luna",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 314,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 314,
+						"h": 314
+					},
+					"frame": {
+						"x": 1,
+						"y": 454,
+						"w": 314,
+						"h": 314
+					}
+				},
+				{
+					"filename": "logo-juego",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 362,
+						"h": 309
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 361,
+						"h": 306
+					},
+					"frame": {
+						"x": 317,
+						"y": 454,
+						"w": 361,
+						"h": 306
+					}
+				},
+				{
+					"filename": "caja-lista-premios",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 340,
+						"h": 289
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 340,
+						"h": 289
+					},
+					"frame": {
+						"x": 680,
+						"y": 454,
+						"w": 340,
+						"h": 289
+					}
+				},
+				{
+					"filename": "rain",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 17,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 680,
+						"y": 745,
+						"w": 14,
+						"h": 14
+					}
+				},
+				{
+					"filename": "caja-apuesta",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 500,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 500,
+						"h": 96
+					},
+					"frame": {
+						"x": 1464,
+						"y": 1,
+						"w": 500,
+						"h": 96
+					}
+				},
+				{
+					"filename": "star-2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 59
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 59
+					},
+					"frame": {
+						"x": 1966,
+						"y": 1,
+						"w": 54,
+						"h": 59
+					}
+				},
+				{
+					"filename": "star-3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 52,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 58
+					},
+					"frame": {
+						"x": 1966,
+						"y": 62,
+						"w": 52,
+						"h": 58
+					}
+				},
+				{
+					"filename": "caja-premio",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 204
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 204
+					},
+					"frame": {
+						"x": 1022,
+						"y": 454,
+						"w": 366,
+						"h": 204
+					}
+				},
+				{
+					"filename": "atajada-mano-derecha",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 106,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 106,
+						"h": 104
+					},
+					"frame": {
+						"x": 1022,
+						"y": 660,
+						"w": 106,
+						"h": 104
+					}
+				},
+				{
+					"filename": "atajada-mano-izquierda",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 106,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 106,
+						"h": 104
+					},
+					"frame": {
+						"x": 1130,
+						"y": 660,
+						"w": 106,
+						"h": 104
+					}
+				},
+				{
+					"filename": "atajada-patada-derecha",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 106,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 106,
+						"h": 104
+					},
+					"frame": {
+						"x": 1238,
+						"y": 660,
+						"w": 106,
+						"h": 104
+					}
+				},
+				{
+					"filename": "atajada-patada-izquierda",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 106,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 106,
+						"h": 104
+					},
+					"frame": {
+						"x": 1346,
+						"y": 660,
+						"w": 106,
+						"h": 104
+					}
+				},
+				{
+					"filename": "estrella",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 180,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 180,
+						"h": 180
+					},
+					"frame": {
+						"x": 1390,
+						"y": 454,
+						"w": 180,
+						"h": 180
+					}
+				},
+				{
+					"filename": "fuego-amarillo",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 127,
+						"h": 128
+					},
+					"frame": {
+						"x": 1454,
+						"y": 636,
+						"w": 127,
+						"h": 128
+					}
+				},
+				{
+					"filename": "saldo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 374,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 374,
+						"h": 96
+					},
+					"frame": {
+						"x": 1583,
+						"y": 99,
+						"w": 374,
+						"h": 96
+					}
+				},
+				{
+					"filename": "diana",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 106,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 106,
+						"h": 104
+					},
+					"frame": {
+						"x": 1464,
+						"y": 99,
+						"w": 106,
+						"h": 104
+					}
+				},
+				{
+					"filename": "logo-polla",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 180,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 180,
+						"h": 178
+					},
+					"frame": {
+						"x": 1464,
+						"y": 205,
+						"w": 180,
+						"h": 178
+					}
+				},
+				{
+					"filename": "juega-responsable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 62
+					},
+					"frame": {
+						"x": 1464,
+						"y": 385,
+						"w": 128,
+						"h": 62
+					}
+				},
+				{
+					"filename": "loading-logo-polla",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 380,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 8,
+						"w": 369,
+						"h": 101
+					},
+					"frame": {
+						"x": 1646,
+						"y": 197,
+						"w": 369,
+						"h": 101
+					}
+				},
+				{
+					"filename": "caja-premios-por-goles",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 340,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 340,
+						"h": 72
+					},
+					"frame": {
+						"x": 1646,
+						"y": 300,
+						"w": 340,
+						"h": 72
+					}
+				},
+				{
+					"filename": "pelota",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 136
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 136
+					},
+					"frame": {
+						"x": 1572,
+						"y": 449,
+						"w": 136,
+						"h": 136
+					}
+				},
+				{
+					"filename": "tiempo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 309,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 309,
+						"h": 96
+					},
+					"frame": {
+						"x": 1710,
+						"y": 374,
+						"w": 309,
+						"h": 96
+					}
+				},
+				{
+					"filename": "star-1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 68,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 68,
+						"h": 41
+					},
+					"frame": {
+						"x": 1572,
+						"y": 587,
+						"w": 68,
+						"h": 41
+					}
+				},
+				{
+					"filename": "fuego-blanco",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 128,
+						"h": 127
+					},
+					"frame": {
+						"x": 1583,
+						"y": 630,
+						"w": 128,
+						"h": 127
+					}
+				},
+				{
+					"filename": "loading-logo-juega-responsable",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 231,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 231,
+						"h": 112
+					},
+					"frame": {
+						"x": 1710,
+						"y": 472,
+						"w": 231,
+						"h": 112
+					}
+				},
+				{
+					"filename": "gol",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 106,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 106,
+						"h": 104
+					},
+					"frame": {
+						"x": 1713,
+						"y": 586,
+						"w": 106,
+						"h": 104
+					}
+				},
+				{
+					"filename": "polla",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 195,
+						"h": 55
+					},
+					"frame": {
+						"x": 1821,
+						"y": 586,
+						"w": 195,
+						"h": 55
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:27682e69c0628ad9e99bc2d416afba67:d4b329edc2258533eb0b22df0ff27b2b:2db50c4a79ebc1bcbd9597afe4e693ea$"
+	}
+}

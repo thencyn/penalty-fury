@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "nubes.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2007,
+				"h": 996
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "nube-04",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1434,
+						"h": 395
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 26,
+						"w": 1381,
+						"h": 343
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1381,
+						"h": 343
+					}
+				},
+				{
+					"filename": "nube-05",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 676,
+						"h": 381
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 26,
+						"w": 622,
+						"h": 328
+					},
+					"frame": {
+						"x": 1384,
+						"y": 1,
+						"w": 622,
+						"h": 328
+					}
+				},
+				{
+					"filename": "nube-01",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 673,
+						"h": 387
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 27,
+						"w": 619,
+						"h": 334
+					},
+					"frame": {
+						"x": 1384,
+						"y": 331,
+						"w": 619,
+						"h": 334
+					}
+				},
+				{
+					"filename": "nube-09",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 673,
+						"h": 387
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 27,
+						"w": 619,
+						"h": 334
+					},
+					"frame": {
+						"x": 1384,
+						"y": 331,
+						"w": 619,
+						"h": 334
+					}
+				},
+				{
+					"filename": "nube-06",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 753,
+						"h": 380
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 26,
+						"w": 699,
+						"h": 328
+					},
+					"frame": {
+						"x": 1,
+						"y": 667,
+						"w": 699,
+						"h": 328
+					}
+				},
+				{
+					"filename": "nube-08",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 926,
+						"h": 373
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 26,
+						"w": 874,
+						"h": 321
+					},
+					"frame": {
+						"x": 702,
+						"y": 667,
+						"w": 874,
+						"h": 321
+					}
+				},
+				{
+					"filename": "nube-03",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 570,
+						"h": 336
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 26,
+						"w": 517,
+						"h": 284
+					},
+					"frame": {
+						"x": 1,
+						"y": 346,
+						"w": 517,
+						"h": 284
+					}
+				},
+				{
+					"filename": "nube-07",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 421,
+						"h": 332
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 26,
+						"w": 367,
+						"h": 280
+					},
+					"frame": {
+						"x": 520,
+						"y": 346,
+						"w": 367,
+						"h": 280
+					}
+				},
+				{
+					"filename": "nube-02",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 405,
+						"h": 322
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 26,
+						"w": 350,
+						"h": 270
+					},
+					"frame": {
+						"x": 889,
+						"y": 346,
+						"w": 350,
+						"h": 270
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:fdb20d634828debfe670ebe9bdf79e3d:48d8f2f147adc8bcb801850a07635f9c:5f88d8ba59c4494df468cd7ca7961bbf$"
+	}
+}
