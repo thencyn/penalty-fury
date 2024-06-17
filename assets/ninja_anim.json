@@ -1,0 +1,848 @@
+{
+    "anims": [
+        {
+            "key": "0-anim-ninja",
+            "type": "frames",
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-00-1"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-00-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-00-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-00-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-00-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-00-6"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-00-7"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-00-8"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-00-9"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-00-10"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-00-11"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-00-12"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-00-13"
+                }
+            ]
+        },
+		{
+            "key": "1-anim-ninja",
+            "type": "frames",
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-01-1"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-01-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-01-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-01-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-01-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-01-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-01-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-01-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-01-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-01-6"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-01-7"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-01-8"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-01-9"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-01-10"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-01-11"
+                }
+            ]
+        },
+		{
+            "key": "2-anim-ninja",
+            "type": "frames",
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-02-1"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-02-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-02-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-02-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-02-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-02-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-02-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-02-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-02-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-02-6"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-02-7"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-02-8"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-02-9"
+                }				
+            ]
+        },
+		{
+            "key": "3-anim-ninja",
+            "type": "frames",
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-03-1"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-03-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-03-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-03-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-03-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-03-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-03-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-03-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-03-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-03-6"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-03-7"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-03-8"
+                }
+            ]
+        },
+		{
+            "key": "4-anim-ninja",
+            "type": "frames",
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-04-1"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-04-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-04-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-04-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-04-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-04-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-04-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-04-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-04-5"
+                }
+            ]
+        },
+		{
+            "key": "5-anim-ninja",
+            "type": "frames",
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-05-1"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-05-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-05-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-05-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-05-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-05-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-05-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-05-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-05-5"
+                }
+            ]
+        },
+		{
+            "key": "6-anim-ninja",
+            "type": "frames",
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-06-1"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-06-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-06-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-06-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-06-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-06-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-06-3"
+                }
+            ]
+        },
+		{
+            "key": "12-anim-ninja",
+            "type": "frames",
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-12-1"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-12-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-12-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-12-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-12-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-12-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-12-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-12-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-12-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-12-6"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-12-7"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-12-8"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-12-9"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-12-10"
+                }
+            ]
+        },
+        {
+            "key": "13-anim-ninja",
+            "type": "frames",
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-13-1"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-13-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-13-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-13-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-13-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-13-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-13-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-13-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-13-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-13-6"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-13-7"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-13-8"
+                }
+            ]
+        },
+        {
+            "key": "14-anim-ninja",
+            "type": "frames",
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-14-1"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-14-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-14-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-14-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-14-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-14-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-14-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-14-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-14-5"
+                }
+            ]
+        },
+		{
+            "key": "18-anim-ninja",
+            "type": "frames",
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-18-1"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-18-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-18-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-18-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-18-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-18-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-18-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-18-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-18-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-18-6"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-18-7"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-18-8"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-18-9"
+                }
+            ]
+        },
+        {
+            "key": "19-anim-ninja",
+            "type": "frames",
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-19-1"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-19-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-19-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-19-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-19-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-19-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-19-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-19-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-19-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-19-6"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-19-7"
+                }
+            ]
+        },
+        {
+            "key": "20-anim-ninja",
+            "type": "frames",
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-20-1"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-20-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-20-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-20-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-20-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-20-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-20-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-20-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-20-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-20-6"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-20-7"
+                }
+            ]
+        },
+        {
+            "key": "24-anim-ninja",
+            "type": "frames",
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-24-1"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-24-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-24-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-24-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-24-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-24-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-24-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-24-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-24-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-24-6"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-24-7"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-24-8"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-24-9"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-24-10"
+                }
+            ]
+        },
+        {
+            "key": "25-anim-ninja",
+            "type": "frames",
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-25-1"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-25-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-25-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-25-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-25-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-25-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-25-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-25-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-25-5"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-25-6"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-25-7"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-25-8"
+                }
+            ]
+        },
+        {
+            "key": "26-anim-ninja",
+            "type": "frames",
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-26-1"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-26-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-26-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-26-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-26-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-26-2"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-26-3"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-26-4"
+                },
+                {
+                    "key": "AtlasSpriteNinja",
+                    "frame": "ninja-26-5"
+                }
+            ]
+        }
+    ]
+}
