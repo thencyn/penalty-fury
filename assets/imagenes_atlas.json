@@ -346,7 +346,7 @@
 					}
 				},
 				{
-					"filename": "diana",
+					"filename": "diana-disable",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -556,7 +556,7 @@
 					}
 				},
 				{
-					"filename": "gol",
+					"filename": "diana",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -596,6 +596,27 @@
 						"w": 195,
 						"h": 55
 					}
+				},
+				{
+					"filename": "gol",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 106,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 106,
+						"h": 104
+					},
+					"frame": {
+						"x": 1821,
+						"y": 643,
+						"w": 106,
+						"h": 104
+					}
 				}
 			]
 		}
@@ -603,6 +624,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:27682e69c0628ad9e99bc2d416afba67:d4b329edc2258533eb0b22df0ff27b2b:2db50c4a79ebc1bcbd9597afe4e693ea$"
+		"smartupdate": "$TexturePacker:SmartUpdate:d496ac9895dcf57642b4a65e967b2000:d222251f11538a739bdcb0e7f72d018e:2db50c4a79ebc1bcbd9597afe4e693ea$"
 	}
 }
