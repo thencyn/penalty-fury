@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "bandera.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 460,
+				"h": 122
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandera-04",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 130,
+						"h": 131
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 11,
+						"w": 118,
+						"h": 120
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 118,
+						"h": 120
+					}
+				},
+				{
+					"filename": "bandera-03",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 11,
+						"w": 115,
+						"h": 119
+					},
+					"frame": {
+						"x": 121,
+						"y": 1,
+						"w": 115,
+						"h": 119
+					}
+				},
+				{
+					"filename": "bandera-01",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 130,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 11,
+						"w": 110,
+						"h": 119
+					},
+					"frame": {
+						"x": 238,
+						"y": 1,
+						"w": 110,
+						"h": 119
+					}
+				},
+				{
+					"filename": "bandera-02",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 131,
+						"h": 130
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 11,
+						"w": 109,
+						"h": 119
+					},
+					"frame": {
+						"x": 350,
+						"y": 1,
+						"w": 109,
+						"h": 119
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5a7c5afd142a9af4d3cfc039f7b331f8:df349c88ffc5883e9f2ced6bb91be39e:b656ae181501ce04078b398da6895ae2$"
+	}
+}
