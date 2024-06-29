@@ -1,0 +1,188 @@
+{
+	"textures": [
+		{
+			"image": "cuadro-ganador.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1606,
+				"h": 1936
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "cuadro-ganador-01",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 801,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 801,
+						"h": 482
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 801,
+						"h": 482
+					}
+				},
+				{
+					"filename": "cuadro-ganador-02",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 801,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 801,
+						"h": 482
+					},
+					"frame": {
+						"x": 804,
+						"y": 1,
+						"w": 801,
+						"h": 482
+					}
+				},
+				{
+					"filename": "cuadro-ganador-03",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 801,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 801,
+						"h": 482
+					},
+					"frame": {
+						"x": 1,
+						"y": 485,
+						"w": 801,
+						"h": 482
+					}
+				},
+				{
+					"filename": "cuadro-ganador-04",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 801,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 801,
+						"h": 482
+					},
+					"frame": {
+						"x": 804,
+						"y": 485,
+						"w": 801,
+						"h": 482
+					}
+				},
+				{
+					"filename": "cuadro-ganador-05",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 801,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 801,
+						"h": 482
+					},
+					"frame": {
+						"x": 1,
+						"y": 969,
+						"w": 801,
+						"h": 482
+					}
+				},
+				{
+					"filename": "cuadro-ganador-06",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 801,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 801,
+						"h": 482
+					},
+					"frame": {
+						"x": 1,
+						"y": 1453,
+						"w": 801,
+						"h": 482
+					}
+				},
+				{
+					"filename": "cuadro-ganador-07",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 801,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 801,
+						"h": 482
+					},
+					"frame": {
+						"x": 804,
+						"y": 969,
+						"w": 801,
+						"h": 482
+					}
+				},
+				{
+					"filename": "cuadro-ganador-08",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 801,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 801,
+						"h": 482
+					},
+					"frame": {
+						"x": 804,
+						"y": 1453,
+						"w": 801,
+						"h": 482
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0cfdc7f3170ce1faef7e877c05d0891e:0a9ab55a47edc6f6f7d490f6a6f00d61:8232618471c8e44eacc646d7974442ca$"
+	}
+}
